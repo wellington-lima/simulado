@@ -1,6 +1,7 @@
 interface IResposta {
   indice: string
   valor: string
+  certa?: boolean
 }
 
 export interface IQuestao {

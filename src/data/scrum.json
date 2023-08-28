@@ -5,7 +5,7 @@
     "banca": "CESGRANRIO",
     "orgao": "Transpetro",
     "prova": "CESGRANRIO - 2018 - Transpetro - Analista de Sistemas Júnior - Processos de Negócio",
-    "pergunta": "No uso de alguns métodos ágeis, como SCRUM, é comum que o esforço de desenvolvimento seja avaliado or meio de Pontos de História (Story Points). Essa metodologia usa artas, semelhantes a cartas de baralho, onde cada uma apresenta um valor de uma escala de valores numéricos, que, normalmente, segue a seguinte sequência:",
+    "pergunta": "No uso de alguns métodos ágeis, como SCRUM, é comum que o esforço de desenvolvimento seja avaliado por meio de Pontos de História (Story Points). Essa metodologia usa cartas, semelhantes a cartas de baralho, onde cada uma apresenta um valor de uma escala de valores numéricos, que, normalmente, segue a seguinte sequência:",
     "respostas": [
       { "indice": "a", "valor":"0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"},
       { "indice": "b", "valor":"0, 1, 2, 3, 5, 8, 13, 20, 40 e 100", "certa": true},
