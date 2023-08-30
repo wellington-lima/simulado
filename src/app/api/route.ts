@@ -4,11 +4,7 @@ import fs from "fs";
 
 export function GET(request: Request) {
     const {searchParams} = new URL(request.url);
-    const materia = searchParams.get('materia');
-
-    if(materia == '1') {
-        return NextResponse.json(getPerguntas("scrum.json"));
-    }
+    return NextResponse.json(getPerguntas("perguntas.json"));
 }
 
 export function getPerguntas(arquivo: string) {

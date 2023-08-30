@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "disciplina": "SCRUM",
+    "ano": "2008",
+    "banca": "CESGRANRIO",
+    "orgao": "Transpetro",
+    "concurso": "CESGRANRIO - 2018 - Transpetro",
+    "cargo": "Analista de Sistemas Júnior - Processos de Negócio",
+    "pergunta": "No uso de alguns métodos ágeis, como SCRUM, é comum que o esforço de desenvolvimento seja avaliado por meio de Pontos de História (Story Points). Essa metodologia usa cartas, semelhantes a cartas de baralho, onde cada uma apresenta um valor de uma escala de valores numéricos, que, normalmente, segue a seguinte sequência:",
+    "respostas": [
+      { "indice": "a", "valor":"0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"},
+      { "indice": "b", "valor":"0, 1, 2, 3, 5, 8, 13, 20, 40 e 100", "certa": true},
+      { "indice": "c", "valor":"0, 1, 2, 4, 8, 16, 32, 64, 128"},
+      { "indice": "d", "valor":"1, 2, 3, 6, 12, 24, 48, 96"},
+      { "indice": "e", "valor":"1, 5, 10, 50, 100, 500, 1000"}
+    ],
+    "tags": ["ágil", "scrum"]
+  },
+  {
+    "id": 2,
+    "disciplina": "SCRUM",
+    "ano": "2021",
+    "banca": "",
+    "orgao": "ABDI - Agência Brasileira de Desenvolvimento Industrial",
+    "concurso": "Processo de Recrutamento e Seleção de Pessoal",
+    "cargo": "Analista II - Tecnologia/Comunicação",
+    "pergunta": "Podemos concluir que a Gestão Ágil de Projetos com Scrum, a justificativa de negócio baseia-se em: Assinale a alternativa correta.",
+    "respostas": [
+      { "indice": "a", "valor":"Rápida liberação de recursos"},
+      { "indice": "b", "valor":"Entrega dirigida a valor", "certa": true},
+      { "indice": "c", "valor":"Redução de custo"},
+      { "indice": "d", "valor":"Limitação de requisitos"},
+      { "indice": "e", "valor":"Melhor gestão de projetos"}
+    ],
+    "tags": ["ágil", "scrum"]
+  },
+  {
+    "id": 3,
+    "disciplinas": ["Desenvolvimento Web", "CSS"],
+    "ano": "",
+    "banca": "",
+    "orgao": "",
+    "concurso": "",
+    "cargo": "",
+    "pergunta": "Para que serve o CSS?",
+    "respostas": [
+      { "indice": "a", "valor":"O CSS ou Folhas de Estilo em Cascata é uma maneira de dar estilo ao código criado or linguagem como HTML.", "certa": true},
+      { "indice": "b", "valor":"É uma linguagem de marcação de texto."},
+      { "indice": "c", "valor":"É uma linguagem que serve para registrar seções na página."},
+      { "indice": "d", "valor":"É uma linguagem que serve para dar dinamismo a páginas web."},
+      { "indice": "e", "valor":"Nenhuma das anteriores."}
+    ],
+    "tags": ["html", "css", "web", "site", "desenvolvimento"]
+  },
+  {
+    "id": 4,
+    "disciplinas": ["Desenvolvimento Web", "JavaScript"],
+    "ano": "",
+    "banca": "",
+    "orgao": "",
+    "concurso": "",
+    "cargo": "",
+    "pergunta": "Para que serve o JavaScript?",
+    "respostas": [
+      { "indice": "a", "valor":"É uma linguagem de marcação de texto."},
+      { "indice": "b", "valor":"É uma linguagem de programação utilizada principalmente em páginas web. Com ela podemos dinamizar a interação dentro dos sites construindo conteúdos dinamicamente e manipulando as estruturas criadas pelo HTML e pelo CSS.", "certa": true},
+      { "indice": "c", "valor":"É uma linguagem de programação utilizada principalmente em páginas web. Com ela podemos estilizar a estrutura dos sites construindo conteúdos estáticos e manipulando as estruturas criadas pelo HTML e pelo CSS."},
+      { "indice": "d", "valor":"É uma maneira de dar estilo ao código criado por linguagens como HTML."},
+      { "indice": "e", "valor":"Nenhuma das alternativas."}
+    ],
+    "tags": ["html", "javascript", "web", "site", "desenvolvimento"]
+  },
+  {
+    "id": 5,
+    "disciplinas": ["Desenvolvimento Web", "JavaScript", "HTTP"],
+    "ano": "",
+    "banca": "",
+    "orgao": "",
+    "concurso": "",
+    "cargo": "",
+    "pergunta": "Para que serve o protocolo HTTP?",
+    "respostas": [
+      { "indice": "a", "valor":"É uma linguagem que serve para estilizar tags de páginas web."},
+      { "indice": "b", "valor":"É um framework de HTML."},
+      { "indice": "c", "valor":"É um protocolo de comunicação cliente servidor que nos permite obter recursos de forma padronizada e organizada.", "certa": true},
+      { "indice": "d", "valor":"É uma linguagem de marcação de texto."},
+      { "indice": "e", "valor":"Nenhuma das alternativas."}
+    ],
+    "tags": ["html", "http", "web", "site", "desenvolvimento"]
+  },
+  {
+    "id": 6,
+    "disciplinas": ["Desenvolvimento Web", "HTML"],
+    "ano": "",
+    "banca": "",
+    "orgao": "",
+    "concurso": "",
+    "cargo": "",
+    "pergunta": "Para que serve o HTML?",
+    "respostas": [
+      { "indice": "a", "valor":"É uma linguagem que serve para agrupar funções."},
+      { "indice": "b", "valor":"É uma linguagem que serve para estilizar tags de páginas web."},
+      { "indice": "c", "valor":"É uma linguagem que serve para dar dinamismo às páginas web."},
+      { "indice": "d", "valor":"É uma linguagem de marcação de texto que serve para delimitar e estruturar conteúdos.", "certa": true },
+      { "indice": "e", "valor":"Nenhuma das alternativas."}
+    ],
+    "tags": ["html", "http", "web", "site", "desenvolvimento"]
+  }
+]
